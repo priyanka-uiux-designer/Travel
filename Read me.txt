@@ -1,0 +1,49 @@
+Read me
+
+# 🌍 Travel App
+
+A front-end focused, user-friendly travel guide platform offering detailed insights into destinations around the world.
+
+## 🚀 Features
+
+- Clean, responsive UI
+- Organized travel destination details
+- Fully designed wireframes and final screens
+- Modular, scalable CSS and JS
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Travel.css & travel_temp.css)
+- JavaScript (travel_js.js)
+
+## 📁 File Structure
+
+```
+/Travel
+  ├── Travel.css              # Main styles
+  ├── travel_temp.css         # Temporary/backup styles
+  ├── travel_js.js            # Interactive behavior
+  ├── Travel app Wireframe/   # Low-fidelity wireframes (1–26)
+  └── Travel app design/      # Final screen designs (1–26)
+```
+
+## 🧑‍💻 Developer Notes
+
+- Ensure assets are optimized before production integration.
+- Consider modularizing JavaScript if scaling up.
+- Backend integration points (e.g., APIs for travel info) can be added in future phases.
+
+## 🧭 Future Scope
+
+- Integration with real-time travel APIs
+- User profiles and saved trip plans
+- Location-based recommendations
+
+## 📸 Screenshots
+
+Screens are available in `Travel app design/`.
+
+## 📝 License
+
+
